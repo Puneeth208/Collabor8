@@ -1,0 +1,3 @@
+0SGUXvkz8Z1nCkD5
+
+mongodb+srv://puneethb256:0SGUXvkz8Z1nCkD5@cluster0.9m7kk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
