@@ -1,5 +1,3 @@
-Here's a polished and professional version of your project description for **Collabor8**, ready to be added to your GitHub `README.md`:
-
 ---
 
 # 🌍 Collabor8
